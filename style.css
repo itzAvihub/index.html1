@@ -1,0 +1,19 @@
+img {
+    border: 10px solid white;
+    margin-left: 380px;
+    margin-top: 120px;
+}
+html {
+    background-color: black;
+}
+ h1 {
+    color: antiquewhite;
+    margin-left: 560px;
+    font-style: 48px;
+    font-style: italic;
+ }
+ h4 {
+    color: antiquewhite;
+    margin-left: 510px;
+    margin-top: 20px;
+ }
